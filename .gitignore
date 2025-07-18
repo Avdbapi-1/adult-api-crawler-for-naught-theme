@@ -1,0 +1,14 @@
+# Loại trừ folder eroz/wp-content
+eroz/
+../../eroz/
+
+# Loại trừ các file không cần thiết
+*.zip
+*.log
+.DS_Store
+Thumbs.db
+
+# Loại trừ các folder khác không liên quan
+../../avdbcms/
+../../push/
+../../.vscode/ 
